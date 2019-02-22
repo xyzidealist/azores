@@ -4,6 +4,7 @@
 
 #da-slider .da-slide p {
     color: black;
+    margin-top: -24px;
 }
 
 #da-slider .sky {
