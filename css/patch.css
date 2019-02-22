@@ -1,0 +1,38 @@
+#da-slider .da-slide h2 {
+    color: black;
+}
+
+#da-slider .da-slide p {
+    color: black;
+}
+
+#da-slider .sky {
+    width: 100%;
+    height: 100%;
+}
+
+.da-slide .da-patent{
+    width: 331px;
+    height: 468px;
+}
+
+.da-slide .da-licence{
+    width: 468px;
+    height: 331px;
+}
+
+.da-slide .da-img .img-auto-adaption{
+    width: 100%;
+    height: 100%;
+}
+
+.da-slider {
+    /*background: url(../img/seq-slider/bg-sky.png) repeat-x #65b7f1;*/
+
+    height: 600px;
+}
+
+.wx {
+    width: 200px;
+    height: 200px;
+}
